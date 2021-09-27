@@ -88,20 +88,20 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Jack Hartmann',
+        link: 'https://www.youtube.com/channel/UCVcQH8A634mauPrGbWs7QlQ',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Just Dance',
+        link: 'https://www.youtube.com/watch?v=6Q7-tzCCh3w',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Kidz Bop',
+        link: 'https://www.youtube.com/watch?v=yss0SGzrUIY'',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'The Learning Station',
+        link: 'https://www.youtube.com/watch?v=388Q44ReOWE',
       },
     ],
     secondList: [
