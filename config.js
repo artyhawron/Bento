@@ -11,8 +11,8 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
-  imageBackground: false,
+  name: 'Amber',
+  imageBackground: true,
   openInNewTab: true,
   twelveHourFormat: false,
 
@@ -23,14 +23,14 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
+  weatherKey: '3bd7418650b35b74f269201362c0c5a3',
+  weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
-  trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
+  defaultLatitude: '-33.7585013',
+  defaultLongitude: '150.97979999999998',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
