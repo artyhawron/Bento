@@ -97,7 +97,7 @@ const CONFIG = {
       },
       {
         name: 'Kidz Bop',
-        link: 'https://www.youtube.com/watch?v=yss0SGzrUIY'',
+        link: 'https://www.youtube.com/watch?v=yss0SGzrUIY',
       },
       {
         name: 'The Learning Station',
