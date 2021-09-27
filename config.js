@@ -12,7 +12,7 @@ const CONFIG = {
 
   // General
   name: 'Amber',
-  imageBackground: true,
+  imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
 
@@ -106,20 +106,20 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Bernstein Bears',
+        link: 'https://www.youtube.com/watch?v=vUBKrSwCprY',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Miniscule',
+        link: 'https://www.youtube.com/watch?v=pn4u1JN84GU&list=PLajav__4AGmhGOqBT_m9lLU593z2MKenV',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Franklin',
+        link: 'https://www.youtube.com/watch?v=Nyrn_prvr08',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Curious George',
+        link: 'https://www.youtube.com/watch?v=QSVcRbNPrbw',
       },
     ],
   },
